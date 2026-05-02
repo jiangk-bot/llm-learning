@@ -1,0 +1,11 @@
+Classify an email as UNINTERESTING if it is any of the following:
+- Spam or unsolicited email
+- Marketing or promotional content
+- University course updates sent to the entire class (e.g. assignment reminders, lecture notes, syllabus changes)
+- Automated notifications or newsletters
+
+Classify an email as INTERESTING if it is any of the following:
+- A personal email written directly to me
+- An email among friends or acquaintances
+- Emails related to a job search, internship application, or career opportunity
+- Any email with personal or emotional significance
